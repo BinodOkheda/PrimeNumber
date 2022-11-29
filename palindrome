@@ -1,1 +1,9 @@
 check for the palindrome
+
+str="madam";
+str2="";
+
+for(i=str.length-1;i++){
+}
+if(str==str2){
+}
